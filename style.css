@@ -29,6 +29,10 @@ body > header {
 
 }
 
+header > h3 {
+    text-align: center; 
+}
+
 #nav-ul {
     display: flex;
 }
