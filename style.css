@@ -24,7 +24,7 @@ body > header {
     color: white;
     display: flex;
     height: 15vh;
-    align-items: center;
+    align-items:center;
     justify-content: space-around;
 
 }
