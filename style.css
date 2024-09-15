@@ -29,6 +29,10 @@ body > header {
 
 }
 
+h3 {
+    color: darkgrey; 
+}
+
 
 #nav-ul {
     display: flex;
