@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px; 
-    background: linear-gradient(40deg,#805B87,rgb(187, 127, 230) #EFC0FE,#FDC1C5 );
+    background: linear-gradient(45deg,#805B87,#bb7fe6 #EFC0FE,#FDC1C5 );
 } 
 
 #logo {
@@ -9,6 +9,7 @@ body {
     margin: 0px; 
     font-family: "Fredoka One", sans-serif;
     width: 50%;
+    align-items: center;
     text-shadow: 
     1px 1px 0px black, /*Bottom-right shadow*/
     -1px 1px 0px black, /*Bottom-left shadow*/
@@ -101,6 +102,8 @@ img{
 }
     
 #footer-ul > div > li > a{
+    text-decoration: none;
+    color: white;
     text-decoration: none;
     color: white;
 } 
