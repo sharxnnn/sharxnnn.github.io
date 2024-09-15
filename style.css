@@ -1,14 +1,14 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px; 
-    background: linear-gradient(45deg, #FDC1C5, #EFC0FE );
+    background: linear-gradient(45deg,#805B87, #EFC0FE,#FDC1C5 );
 } 
 
 #logo {
     color: white;
     margin: 0px; 
     font-family: "Fredoka One", sans-serif;
-    width: 30%;
+    width: 50%;
     text-shadow: 
     1px 1px 0px black, /*Bottom-right shadow*/
     -1px 1px 0px black, /*Bottom-left shadow*/
