@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px; 
-    background: linear-gradient(45deg,#805B87, #EFC0FE,#FDC1C5 );
+    background: linear-gradient(40deg,#805B87,rgb(187, 127, 230) #EFC0FE,#FDC1C5 );
 } 
 
 #logo {
@@ -81,7 +81,7 @@ form {
 
 
 body > footer {
-    background-color: #805B87;
+    background-color: #FDC1C5;
     display: flex ; 
 }
 
