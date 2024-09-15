@@ -55,7 +55,7 @@ body > header > nav > ul {
     text-decoration: none;
     padding:12px; 
     border: 1px solid white;
-    border-radius: 100%;
+    border-radius: 80%;
 }
 
 body > main article {
