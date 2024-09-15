@@ -106,5 +106,10 @@ img{
     color: white;
 } 
 
+#footer-ul > div > li > a{
+    text-decoration: none;
+    color: white;
+} 
+
 
     
