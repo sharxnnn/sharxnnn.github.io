@@ -25,16 +25,14 @@ body > header {
 
         /* Add this to your existing CSS file or <style> block */
 .clock {
-    font-size: 3rem;
     font-family: "Fredoka One", sans-serif;
-    font-weight: bold;
     background-color: #FDC1C5;
     color: white;
     display: flex;
     padding: 20px;
     border-radius: 10px;
     align-items: center; 
-
+    justify-content: space-around;
 
     background-color: plum; 
     color: white;
