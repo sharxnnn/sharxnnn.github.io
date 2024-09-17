@@ -29,14 +29,6 @@ body > header {
     align-items:center;
     justify-content: space-around;
 
-        /* Add this to your existing CSS file or <style> block */
-.clock {
-    font-family: "Fredoka One", sans-serif;
-    color: white;
-    border-radius: 10px;
-    justify-content: space-around;
-    text-align: center
-
    
 }
 
