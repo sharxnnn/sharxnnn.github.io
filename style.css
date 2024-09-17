@@ -28,19 +28,20 @@ body > header {
     height: 15vh;
     align-items:center;
     justify-content: space-around;
-}
 
-body > header {
     .clock 
         font-size: 3rem;
         font-weight: bold;
-        background: #000;
+        background: plum;
         color: white;
         padding: 20px;
         border-radius: 10px;
         text-align: center;
-
 }
+
+    
+
+
     
 
 
