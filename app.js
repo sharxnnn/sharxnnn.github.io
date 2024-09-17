@@ -15,3 +15,18 @@ for (const image of images) {
 
 })
 
+// Function to update the clock
+function updateClock() {
+    const now = new Date();
+    const hours = now.getHours().toString().padStart(2, '0');
+    const minutes = now.getMinutes().toString().padStart(2, '0');
+    const timeString = '${hours} : ${minutes}';
+
+    document.getElementById('clock').textContent = timeString;
+}
+
+// Update the clock every minute
+setInterval(updateClock, 60000);
+
+// Call the function initially to set the clock immediately
+updateClock(); 
