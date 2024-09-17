@@ -34,8 +34,8 @@ body > header {
     font-family: "Fredoka One", sans-serif;
     color: white;
     border-radius: 10px;
-    align-items: left; 
     justify-content: space-around;
+    text-align: center
 
    
 }
