@@ -30,7 +30,8 @@ body > header {
     justify-content: space-around;
 }
 
-    .clock {
+body > header {
+    .clock 
         font-size: 3rem;
         font-weight: bold;
         background: #000;
@@ -40,6 +41,9 @@ body > header {
         text-align: center;
 
 }
+    
+
+
 
 
 
