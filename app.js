@@ -15,18 +15,21 @@ for (const image of images) {
 
 })
 
+// Place this script in your existing JavaScript file or <script> section
+
 // Function to update the clock
 function updateClock() {
     const now = new Date();
     const hours = now.getHours().toString().padStart(2, '0');
     const minutes = now.getMinutes().toString().padStart(2, '0');
-    const timeString = '${hours} : ${minutes}';
+    const seconds = now.getSeconds().toString().padStart(2, '0');
+    const timeString = `${hours}:${minutes}:${seconds}`;
 
     document.getElementById('clock').textContent = timeString;
 }
 
-// Update the clock every minute
-setInterval(updateClock, 60000);
+// Update the clock every second
+setInterval(updateClock, 1000);
 
-// Call the function initially to set the clock immediately
-updateClock(); 
+// Call the function initially to display the time immediately
+updateClock();
