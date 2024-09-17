@@ -21,18 +21,19 @@ ul {
     margin: 0px;
 }
     
-body > header {
+body > header { 
     background-color: plum; 
     color: white;
     display: flex;
     height: 15vh;
     align-items:center;
     justify-content: space-around;
+}
 
-    .clock 
+    .clock {
         font-size: 3rem;
         font-weight: bold;
-        background: plum;
+        background-color: plum;
         color: white;
         padding: 20px;
         border-radius: 10px;
@@ -126,7 +127,4 @@ img{
 #footer-ul > div > li > a{
     text-decoration: none;
     color: white;
-} 
-
-
-    
+}   
