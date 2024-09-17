@@ -32,9 +32,7 @@ body > header {
         /* Add this to your existing CSS file or <style> block */
 .clock {
     font-family: "Fredoka One", sans-serif;
-    background-color: #FDC1C5;
     color: white;
-    padding: 20px;
     border-radius: 10px;
     align-items: left; 
     justify-content: space-around;
