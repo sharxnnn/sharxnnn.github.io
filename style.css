@@ -22,6 +22,12 @@ ul {
 }
     
 body > header {
+    background-color: plum; 
+    color: white;
+    display: flex;
+    height: 15vh;
+    align-items:center;
+    justify-content: space-around;
 
         /* Add this to your existing CSS file or <style> block */
 .clock {
@@ -33,12 +39,7 @@ body > header {
     align-items: left; 
     justify-content: space-around;
 
-    background-color: plum; 
-    color: white;
-    display: flex;
-    height: 15vh;
-    align-items:center;
-    justify-content: space-around;
+   
 }
 
 }
