@@ -29,6 +29,17 @@ body > header {
     align-items:center;
     justify-content: space-around;
 
+    /* Add this to your existing CSS file or <style> block */
+.clock {
+    font-size: 3rem;
+    font-weight: bold;
+    background: #000;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
 }
 
 h3 {
