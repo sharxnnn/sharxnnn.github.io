@@ -9,7 +9,7 @@ body {
     margin: 0px; 
     font-family: "Fredoka One", sans-serif;
     width: 50%;
-    align-items: center;
+    align-items: right;
     text-shadow: 
     1px 1px 0px black, /*Bottom-right shadow*/
     -1px 1px 0px black, /*Bottom-left shadow*/
