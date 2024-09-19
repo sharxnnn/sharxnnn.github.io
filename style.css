@@ -74,6 +74,12 @@ body > header > nav > ul {
     border-radius: 80%;
 }
 
+article > header> img{
+    width: 500px;
+    height: 500px;
+    border-radius: 10%; 
+}
+
 body > main article {
     width: 80%; 
     margin: auto;
@@ -101,11 +107,6 @@ body > footer {
     display: flex ; 
 }
 
-article > header> img{
-    width: 500px;
-    height: 500px;
-    border-radius: 10%; 
-}
 
 #footer-ul{
     display: flex;
